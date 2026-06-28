@@ -56,7 +56,7 @@ Google Gemini    Ollama (Llama 3.1)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/genai-flask-assistant.git
+git@github.com:pardeep11/genai-flask-assistant.git
 cd genai-flask-assistant
 ```
 
