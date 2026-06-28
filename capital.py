@@ -29,7 +29,6 @@ def test_inference(provider="gemini"):
     if provider == "gemini":
         # Dynamically fetch 'google_api_key' from the JSON dictionary
         api_key = get_credential("google_api_key")
-        print('gemini_keydddddddddddddd',api_key)
         
         if not api_key:
             raise ValueError("Error: 'google_api_key' could not be resolved from credentials.json or system variables.")
