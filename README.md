@@ -1,6 +1,10 @@
 # Enterprise Hybrid GenAI Assistant (Flask + LangChain)
 
 A simple AI chat assistant built with **Flask**, **LangChain**, **Google Gemini 2.5 Flash**, and **Ollama (Llama 3.1)**. It supports both cloud and local LLMs and returns structured JSON responses using Pydantic.
+<img width="969" height="776" alt="image" src="https://github.com/user-attachments/assets/95791e0b-4cdc-45ad-967c-047a34e3d0a2" />
+<img width="1117" height="594" alt="image" src="https://github.com/user-attachments/assets/a695a1a6-9735-4ef0-ae0f-ee66b30a24ec" />
+
+
 
 ---
 
